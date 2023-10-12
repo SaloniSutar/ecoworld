@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449171302107",
+    "project_id": "ecoworld-43df2",
+    "storage_bucket": "ecoworld-43df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449171302107:android:d5778f2b73375e90fa4efe",
+        "android_client_info": {
+          "package_name": "com.example.ecoworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449171302107-s176u1eb7d3vtui02aa5b86mnmqm9a7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWhholoftUh75BZSlUyZLCK8d33dPdvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449171302107-s176u1eb7d3vtui02aa5b86mnmqm9a7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
